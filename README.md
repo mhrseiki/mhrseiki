@@ -1,3 +1,10 @@
+<!--
+
+  README.md -
+
+  Copyright (C) 2025 Seiki Umehara
+
+-->
 <pre><code>SEIKI UMEHARA █
 
 ~~~
